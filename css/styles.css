@@ -130,8 +130,9 @@
   }
 
   div.tree_card img {
-    width: 100%;
-    height: 240px; 
+    /* width: 100%; */
+    width: 298px;
+    height: 394px; 
   }  
   
   div.common_tree_name {
