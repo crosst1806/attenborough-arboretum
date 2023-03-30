@@ -104,6 +104,29 @@
     height: 180px; }
   
   
+  img.landscape_4_3_large {
+    border: 1px solid lightgrey;
+    width: 640px;
+    height: 360px; }
+  }
+  
+  img.landscape_4_3_medium {
+    border: 1px solid lightgrey;
+    width: 480px;
+    height: 270px; }
+  }
+  
+  img.sixforty {
+    border: 1px solid lightgrey;
+    width: 640px;
+    height: 360px; }
+  }
+  
+  img.foureighty {
+    border: 1px solid lightgrey;
+    width: 480px;
+    height: 270px; }
+    
   img.large {
     border: 1px solid lightgrey;
     width: 500px;
@@ -152,8 +175,8 @@
   }  
   
   div.tree_card_summary {
-/*     margin-top: 8px; */
-/*     border: 1px solid lightgray; */
+     margin-left: 16px; */
+     border: 1px solid lightgray; 
   }
   
 #customers {
