@@ -158,6 +158,13 @@
     height: 394px; 
   }  
   
+  div.image_legend {
+    padding: 12px 4px 4px 4px;
+    text-align: center;
+    font-size: 18px;
+    color: darkslategray;
+  }  
+  
   div.common_tree_name {
     padding: 12px 4px 4px 4px;
     text-align: center;
