@@ -44,12 +44,6 @@
     margin-top: 12px;
     padding: 10px 0px 5px 0px; }
     
-  .banner_container {
-    margin-top: 18px;
-/*     width: 960px; */
-    height: 540px;
-  }
-    
   .horizontal_nav {
     margin-top: 0px;
     padding: 0px;
@@ -91,58 +85,10 @@
   
   /* Images */
   
-  img.banner {
-    margin-top: 12px;
+  img {
     border: 1px solid lightgrey;
-    width: 940px;
-    height: 540px; }
-  
-  img.featurette {
-    float: left;
-    border: 1px solid lightgrey;
-    width: 230px;
-    height: 180px; }
-  
-  
-  img.landscape_4_3_large {
-    border: 1px solid lightgrey;
-    width: 640px;
-    height: 360px; }
   }
   
-  img.landscape_4_3_medium {
-    border: 1px solid lightgrey;
-    width: 480px;
-    height: 270px; }
-  }
-  
-  img.sixforty {
-    border: 1px solid lightgrey;
-    width: 640px;
-    height: 360px; }
-  }
-  
-  img.foureighty {
-    border: 1px solid lightgrey;
-    width: 480px;
-    height: 270px; }
-    
-  img.large {
-    border: 1px solid lightgrey;
-    width: 500px;
-    height: 500px; }
-    
-  img.medium {
-    border: 1px solid lightgrey;
-    width: 250px;
-    height: 250px; }
-    
-  img.small {
-    border: 1px solid lightgrey;
-    width: 100px;
-    height: 100px; }
-    
-    
   div.tree_card {
     margin-top: 8px;
     border: 1px solid lightgray;
@@ -186,28 +132,6 @@
      border: 1px solid lightgray; 
   }
   
-#customers {
-  font-family: Arial, Helvetica, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-#customers td, #customers th {
-  border: 1px solid #ddd;
-  padding: 8px;
-}
-
-#customers tr:nth-child(even){background-color: #f2f2f2;}
-
-#customers tr:hover {background-color: #ddd;}
-
-#customers th {
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: centre;
-  background-color: #04AA6D;
-  color: white;
-}
 
 /* Pagination links */
 .pagination a {
